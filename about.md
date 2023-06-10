@@ -3,72 +3,30 @@ layout: article
 titles:
   # @start locale config
   en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
   zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
   zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
   # @end locale config
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+此网站已在 2023 年 6 月 10 日整改。
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+感谢 [Jekyll](https://jekyllrb.com/) 提供网站模板，和 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) 的制作者制作网站主题。以后会考虑用 Vercel 重新建站，并用 Freenom 绑定一个域名。此网站目前访问速度慢，存在少量英文。
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+# 关于我（WinBetaLover）
 
-## Features
+我是一个 5 年级小学生，喜欢 Windows、电脑、发表科技类的视频，是 WinBetaCN Team 的一员，此团队主要制作 Windows Beta（例如 Longhorn 4074）的语言包，也是 AeroGNOME＆IVBX Data Whistler Team 的一员。**任何 KenYue，终将绳之以法！**
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+[我的 B 站帐户](https://space.bilibili.com/410645610) 我的视频只在 B 站发布，**在其他平台发布均为盗版！**
+[我的旧 B 站帐户](https://space.bilibili.com/1257689472) 现在此帐户已**永久废弃**。
+推荐关注以下UP主： [AeroGNOME](https://space.bilibili.com/515586861)  [IVBXの数据](https://space.bilibili.com/1171551865)  [沙雕幺零三](https://space.bilibili.com/1014355041)  [SYSTEM-RAMOS-ZDY](https://space.bilibili.com/493998035)
+粉丝群：https://teams.live.com/l/invite/FEAT9Nj1BZ8xpMSlAQ
+WinBetaCN Team 产品测试群：https://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ 
+我没有 QQ 群，因为我没有 QQ 号。
+邮箱：bobday002@outlook.com
+私聊我：https://message.bilibili.com/?spm_id_from=333.999.0.0#whisper/mid410645610
 
-## Skins
+# 关于 WinBetaCN Team
 
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+它在 Longhorn 4074 汉化包 5.0 发布时成立，现有 7 位成员：我、BSOD-MEMZ、AndyChung
+123、IVBXの数据、AeroGNOME、YuHua_o、OracleVM。此团队主要汉化 Longhorn 4074 和其他 Windows Beta，是第一个汉化某些 Windows Beta 的团队。
