@@ -1,7 +1,7 @@
 ## => Site Settings
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : WinBetaLover 的网站
@@ -17,11 +17,11 @@ timezone: # see https://zh.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ## => Author and Social
 ##############################
 author:
-  type      : 人类 # "person" (default), "organization"
+  type      : UP 主 # "person" (default), "organization"
   name      : WinBetaLover
   url       : https://wbl2.github.io
   avatar    : # path or url of avatar image (square)
-  bio       : 我是一个人类。
+  bio       : 我是一个 B 站科技区 UP 主。
   email     : bobday002@outlook.com
   github    : https://github.com/wbl2 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
 
@@ -100,12 +100,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
+    clientID    : ad2aa66ed47e40a291c8 # GitHub Application Client ID
+    clientSecret: 6485b261752ecea1e4050a292461642fc7d2a3bf # GitHub Application Client Secret
+    repository  : wbl2.github.io # GitHub repo
+    owner       : wbl2 # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+      126325181 # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
