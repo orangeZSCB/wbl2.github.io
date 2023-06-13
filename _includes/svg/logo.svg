@@ -1,8 +1,19 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24">
-<style type="text/css">
-	.st0{fill:#515151;}
-</style>
-<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
-	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="442.000000pt" height="448.000000pt" viewBox="0 0 442.000000 448.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,448.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M3190 4300 c-668 -99 -1218 -179 -1222 -180 -5 0 -8 -400 -8 -890 l0
+-890 1225 0 1225 0 0 1070 c0 589 -1 1070 -2 1069 -2 0 -550 -81 -1218 -179z"/>
+<path d="M865 3961 l-860 -127 -3 -747 -2 -747 890 0 890 0 0 875 0 875 -27
+-1 c-16 -1 -415 -58 -888 -128z"/>
+<path d="M0 1410 c0 -608 3 -760 13 -760 15 0 1701 -248 1740 -256 l27 -6 0
+891 0 891 -890 0 -890 0 0 -760z"/>
+<path d="M1960 1267 l0 -903 938 -138 c515 -76 1066 -157 1225 -181 l287 -42
+0 1084 0 1083 -1225 0 -1225 0 0 -903z"/>
+</g>
 </svg>
