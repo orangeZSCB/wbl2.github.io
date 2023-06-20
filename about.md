@@ -29,3 +29,5 @@ WinBetaCN Team 产品测试群：https://teams.live.com/l/invite/FEAiNqXRjDpEszT
 
 它在 Longhorn 4074 汉化包 5.0 发布时成立，现有 7 位成员：我、BSOD-MEMZ、AndyChung
 123、IVBXの数据、AeroGNOME、YuHua_o、OracleVM。此团队主要汉化 Longhorn 4074 和其他 Windows Beta，是第一个汉化某些 Windows Beta 的团队。
+
+下方评论功能正在测试，敬请期待！
