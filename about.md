@@ -4,7 +4,6 @@ titles:
   # @start locale config
   en      : &EN       About
   zh-Hans : &ZH_HANS  关于
-  zh-Hant : &ZH_HANT  關於
   # @end locale config
 key: page-about
 ---
