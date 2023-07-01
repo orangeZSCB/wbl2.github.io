@@ -9,6 +9,14 @@ header:
 
   - titles:
       # @start locale config
+      en      : &EN       Download Center
+      zh-Hans : &ZH_HANS  下载中心
+      zh-CN   : *ZH_HANS
+      # @end locale config
+    url: /dl.html
+
+  - titles:
+      # @start locale config
       en      : &EN       Archive
       zh-Hans : &ZH_HANS  归档
       zh-CN   : *ZH_HANS
