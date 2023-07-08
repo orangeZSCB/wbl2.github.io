@@ -8,6 +8,8 @@ titles:
 key: page-about
 ---
 
+# 关于
+
 此网站已在 2023 年 6 月 10 日整改。
 
 感谢 [Jekyll](https://jekyllrb.com/) 提供网站模板，和 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) 的制作者制作网站主题。以后会考虑用 Vercel 重新建站，并用 Freenom 绑定一个域名。此网站目前访问速度慢，存在少量英文。
