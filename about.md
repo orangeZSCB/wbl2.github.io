@@ -1,22 +1,14 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       About
-  zh-Hans : &ZH_HANS  关于
-  # @end locale config
+title: 关于
 key: page-about
 ---
 
-### 关于
+此网站已在 2023 年 6 月 10 日整改。感谢 [Jekyll](https://jekyllrb.com/) 提供网站模板，和 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) 的制作者制作网站主题。以后会考虑用 Vercel 重新建站，并用 Freenom 绑定一个域名。此网站目前访问速度慢，存在少量英文。
 
-此网站已在 2023 年 6 月 10 日整改。
+### 关于我
 
-感谢 [Jekyll](https://jekyllrb.com/) 提供网站模板，和 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) 的制作者制作网站主题。以后会考虑用 Vercel 重新建站，并用 Freenom 绑定一个域名。此网站目前访问速度慢，存在少量英文。
-
-### 关于我（WinBetaUser）
-
-我是一个 6 年级小学生，喜欢 Windows、发表科技类的视频，是 WinBetaCN Team 的一员，此团队主要制作 Windows Beta（例如 Longhorn 4074）的语言包，也是 AeroGNOME＆IVBX Data Whistler Team 的一员。原名为 WinBetaLover。**任何 KenYue，终将绳之以法！**
+我是一个 6 年级小学生，喜欢 Windows、发表科技类的视频，原名为 WinBetaLover，是 WinBetaCN Team 的一员，此团队主要制作 Windows Beta（例如 Longhorn 4074）的语言包，也是 AeroGNOME ＆ IVBX Data Whistler Team 的一员。**任何 KenYue，终将绳之以法！**
 
 [我的 B 站帐户](https://space.bilibili.com/410645610) 我的视频只在 B 站发布，**在其他平台发布均为盗版！**<br>
 [我的旧 B 站帐户](https://space.bilibili.com/1257689472) 现在此帐户已**永久废弃**。<br>
