@@ -21,7 +21,7 @@ header:
       zh-Hans : &ZH_HANS  下载中心
       zh-CN   : *ZH_HANS
       # @end locale config
-    url: /dl.html
+    url: /download.html
 
   - titles:
       # @start locale config
