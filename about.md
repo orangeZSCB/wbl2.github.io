@@ -17,9 +17,9 @@ WinBetaUser 粉丝群：https://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ<br>
 我没有 QQ 群，因为我没有 QQ 号。<br>
 私聊我：https://message.bilibili.com/#whisper/mid410645610<br>
 
-### 关于 WinBetaCN Team
+### 关于 WinBetaMUI Team
 
 它在 Longhorn 4074 汉化包 5.0 发布时成立，现有 7 位成员：我、BSOD-MEMZ、AndyChung
-123、IVBXの数据、AeroGNOME、YuHua_o、OracleVM。此团队主要汉化 Longhorn 4074 和其他 Windows Beta，是第一个汉化某些 Windows Beta 的团队。
+123、IVBXの数据、AeroGNOME、YuHua_o、OracleVM。此团队主要汉化 Longhorn 4074 和其他 Windows Beta，是第一个汉化部分 Windows Beta 的团队，于 2023/8/1 更名为 WinBetaMUI Team。
 
-下方评论功能正在测试，敬请期待！
+下方评论功能正在测试。
