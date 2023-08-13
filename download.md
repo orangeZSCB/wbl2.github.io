@@ -1,10 +1,10 @@
 ---
 layout: article
 title: 下载中心
-key: page-about
 ---
 
 **欢迎来到 WinBetaUser 下载中心！**您可在此下载 WinBetaUser Freestyle Team 产品、AeroGNOME & IVBX Data Whistler Team 产品和更多产品！
+{:.info}
 
 ### WinBetaUser Freestyle Team 产品
 
@@ -18,6 +18,8 @@ key: page-about
 [WinBetaUser 资源库 - 软件](http://pan.huang1111.cn/s/a78ZCG)
 
 [WinBetaUser 资源库 - Longhorn Images](https://pan.huang1111.cn/s/y8R4s6)
+
+[Longhorn Tools Plus 2.0](http://www.123pan.com/s/LQJuVv-XJKNd.html)
 
 Menhera Encarta：制作中。
 
