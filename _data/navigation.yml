@@ -5,7 +5,7 @@ header:
       zh-Hans : &ZH_HANS  主页
       zh-CN   : *ZH_HANS
       # @end locale config
-    url: /index.html
+    url: /
 
   - titles:
       # @start locale config
@@ -14,6 +14,14 @@ header:
       zh-CN   : *ZH_HANS
       # @end locale config
     url: /blogs.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       WinBetaMUI Team
+      zh-Hans : &ZH_HANS  WinBetaMUI Team
+      zh-CN   : *ZH_HANS
+      # @end locale config
+    url: /winbetamui.html
 
   - titles:
       # @start locale config
