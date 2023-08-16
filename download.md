@@ -35,3 +35,7 @@ Menhera Vista 50.2：私信 [@AeroGNOME](https://space.bilibili.com/515586861) �
 ### AeroWindows11 & FMYX System Threshold Team 产品
 
 Menhera SV 13：作者制作中。
+
+### 想将你的产品投稿到下载中心？
+
+没问题！只需在 B 站私信我！只要不是 WF 内容都能过！
