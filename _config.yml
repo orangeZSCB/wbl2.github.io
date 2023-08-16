@@ -23,7 +23,7 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : 我是一个 B 站科技区 UP 主。
   email     : markta111@outlook.com
-  github    : https://github.com/wbl2 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : wbl2 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
