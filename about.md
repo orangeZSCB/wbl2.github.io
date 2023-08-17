@@ -18,4 +18,4 @@ WinBetaUser 粉丝群：http://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ<br>
 
 ### 关于 WinBetaUser Freestyle Team
 
-现有6 位成员：我、BSOD-MEMZ、AeroGNOME、IVBXの数据、AeroWindows11、AeroFEDORA。
+现有6 位成员：我、@BSOD-MEMZ、@AeroGNOME、@IVBXの数据、@AeroWindows11、@AeroCMRY 和 @AeroFEDORA。
