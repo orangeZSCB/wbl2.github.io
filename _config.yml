@@ -19,16 +19,16 @@ timezone: # see https://zh.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : UP 主 # "person" (default), "organization"
   name      : WinBetaUser
-  url       : https://wbuo.github.io
+  url       : https://wbu-o.github.io
   avatar    : # path or url of avatar image (square)
   bio       : 我是一个 B 站科技区 UP 主。
   email     : markta111@outlook.com
-  github    : wbuo # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : wbu-o # "user_name" the last part of your profile url, e.g. https://github.com/user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: wbuo/wbuo.github.io
+repository: wbu-o/wbu-o.github.io
 repository_tree: main
 
 
@@ -100,12 +100,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : ad2aa66ed47e40a291c8 # GitHub Application Client ID
-    clientSecret: 6485b261752ecea1e4050a292461642fc7d2a3bf # GitHub Application Client Secret
-    repository  : wbl2.github.io # GitHub repo
-    owner       : wbl2 # GitHub repo owner
+    clientID    : # GitHub Application Client ID
+    clientSecret: # GitHub Application Client Secret
+    repository  : # GitHub repo
+    owner       : # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      126325181 # - your GitHub Id
+      # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
