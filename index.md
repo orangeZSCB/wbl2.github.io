@@ -3,4 +3,6 @@ layout: home
 title: 主页
 ---
 
-欢迎来到 WinBetaUser 的网站！
+# 主页
+
+招人帮我写主页[doge]

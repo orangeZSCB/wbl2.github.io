@@ -13,8 +13,6 @@ title: 下载中心
 - [123 网盘](http://www.123pan.com/s/WbMSVv-NuQxv.html)<br>
 - [huang1111 网盘](http://pan.huang1111.cn/s/ZaVztL)
 
-[Nicrozoft OS Images（包括由 Nicrozoft 制作的 Windows 魔改版和优化版）](http://pan.huang1111.cn/s/GmNgFW)
-
 [WinBetaUser 资源库 - 软件](http://pan.huang1111.cn/s/a78ZCG)
 
 [WinBetaUser 资源库 - Longhorn Images](https://pan.huang1111.cn/s/y8R4s6)
@@ -36,6 +34,10 @@ Menhera Vista 50.2：私信 [@AeroGNOME](https://space.bilibili.com/515586861) �
 
 Menhera SV 13：作者制作中。
 
+### 其他
+
+[由本人粉丝群 Nicrosoft 制作的修改版系统](http://pan.huang1111.cn/s/GmNgFW)<br>    附: [Nicrozoft 官方网站](http://nicrozoft.github.io)
+
 ### 想将你的产品投稿到下载中心？
 
-没问题！只需在 B 站私信我！只要不是 WF 内容都能过！
+没问题！只需在 B 站私信我！
