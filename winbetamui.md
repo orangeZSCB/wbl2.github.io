@@ -26,4 +26,4 @@ WinBetaMUI Team 是一个团队，在 Longhorn 4074 汉化包 5.0 发布时成�
 
 ### 关于 WinBetaUser Freestyle Team
 
-请进入[“关于”页面](http://wbl2.github.io/about)获取详细信息。
+请进入[“关于”页面](http://wbu-o.github.io/about)获取详细信息。

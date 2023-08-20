@@ -14,9 +14,9 @@ Polaris OS 是 Windows Core OS (简称 WCOS (卧槽系统？)) 的取消变体�
 ### 更新日志
 
 - v1.0 2023/5/13<br>添加模拟器启动器 Emulator.exe，添加少量依赖文件，添加虚拟磁盘，用 Inno Setup 6.2.2 打包。
-- v1.1 (未来版本)<br>预计添加数字签名，减少安装占用内存，添加安装程序语言，重新安装 Polaris OS。
+- v1.1 (未来版本)<br>预计添加数字签名，减少安装占用内存，添加安装程序语言，分为 POLARIS_BOOT 和 POLARIS_INSTALL 两个版本。
 - v1.2 (未来版本)<br>预计添加 Help.chm 帮助文件，重新设计 Emulator.exe。
 
 ### 下载
 
-请前往[下载中心](http://wbl2.github.io/download)下载，谢谢配合！
+请前往[下载中心](http://wbu-o.github.io/download)下载，谢谢配合！

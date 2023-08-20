@@ -10,7 +10,7 @@ key: page-about
 
 我是一个 6 年级小学生，喜欢 Windows、发表科技类的视频，原名为 WinBetaLover，是 WinBetaMUI Team 的一员，此团队主要制作 Windows Beta（例如 Longhorn 4074）的语言包，也是 AeroGNOME ＆ IVBX Data Whistler Team 的一员。**任何 KenYue，终将绳之以法！**
 
-[我的 B 站帐户](https://space.bilibili.com/410645610) 我的视频只在 B 站发布，**在其他平台发布均为盗版！**
+[我的 B 站账户](https://space.bilibili.com/410645610) 我的视频只在 B 站发布，**在其他平台发布均为盗视频！**
 
 推荐关注以下 UP 主： [@AeroGNOME](https://space.bilibili.com/515586861)  [@IVBXの数据](https://space.bilibili.com/1171551865)
 
