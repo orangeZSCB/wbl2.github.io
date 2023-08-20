@@ -4,9 +4,9 @@ text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : WinBetaUser 的网站
+title   : WinBetaUser Online
 description: > # this means to ignore newlines until "Language & timezone"
-  这是一个由 WinBetaUser 建造的网站。
+  这是一个由 WinBetaUser 基于 Github Pages 创建的网站。
 
 ## => Language and Timezone
 ##############################
@@ -19,16 +19,16 @@ timezone: # see https://zh.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : UP 主 # "person" (default), "organization"
   name      : WinBetaUser
-  url       : https://wbl2.github.io
+  url       : https://wbuo.github.io
   avatar    : # path or url of avatar image (square)
   bio       : 我是一个 B 站科技区 UP 主。
   email     : markta111@outlook.com
-  github    : wbl2 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : wbuo # "user_name" the last part of your profile url, e.g. https://github.com/user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: wbl2/wbl2.github.io
+repository: wbuo/wbuo.github.io
 repository_tree: main
 
 

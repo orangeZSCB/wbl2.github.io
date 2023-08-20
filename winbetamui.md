@@ -18,8 +18,8 @@ WinBetaMUI Team 在 Longhorn 4074 汉化包 5.0 发布时成立，现有 6 位�
 
 这些产品都可以去[下载中心](http://wbl2.github.io/download)下载。
 
-更多产品制作中，但**不要催更！不要催更！不要催更！**
+**不要催更！不要催更！不要催更！**
 
-### WinBetaUser Freestyle Team
+### 关于 WinBetaUser Freestyle Team
 
 请进入[“关于”页面](http://wbl2.github.io/about)获取详细信息。
