@@ -38,9 +38,9 @@ Menhera Vista 50.3 Extended：私信 [@AeroGNOME](https://space.bilibili.com/515
 
 Menhera SV 13：作者制作中。
 
-### 其他
+### Nicrozoft 产品
 
-[由本人粉丝群 Nicrosoft 制作的修改版系统](http://pan.huang1111.cn/s/GmNgFW)
+[Nicrosoft 制作的修改版系统](http://pan.huang1111.cn/s/GmNgFW)
 
 ### 想将你的产品投稿到下载中心？
 
