@@ -10,7 +10,7 @@ Polaris OS 是 Windows Core OS (简称 WCOS (卧槽系统？)) 的取消变体�
 
 ### 图片
 
-![polaris-os-emulator-installer](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-emu-installer.png)
+![polaris-os-emulator-installer](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-emulator-installer.png)
 
 ![polaris-os-boot](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-boot.png)
 
