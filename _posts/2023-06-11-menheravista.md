@@ -18,7 +18,7 @@ Menhera Vista 是一个经过修改的 Windows 11 版本 22H2，它也有 PE 版
 
 私信 AeroGNOME "我爱IVBX" 获取。
 
-要下载其他版本，请私信 AeroGNOME，谢谢配合！
+要下载其他版本，请私信 AeroGNOME。
 {:.warning}
 
 ### 观看相关视频
@@ -26,5 +26,3 @@ Menhera Vista 是一个经过修改的 Windows 11 版本 22H2，它也有 PE 版
 <div>{%- include extensions/bilibili.html id='784975276' -%}</div>
 
 <div>{%- include extensions/bilibili.html id='357615465' -%}</div>
-
-任何 [@KenYueです](http://space.bilibili.com/375044926)，终将绳之以法！
