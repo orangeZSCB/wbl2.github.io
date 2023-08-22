@@ -8,6 +8,10 @@ tags: 软件
 
 Polaris OS 是 Windows Core OS (简称 WCOS (卧槽系统？)) 的取消变体，它和 Andromeda OS 作为难兄难弟一起取消后变成了 Windows 10X。它只泄露了一个版本，但是缺少大量 shell 文件，导致开机后黑屏。它是 ARM32 架构的，因此我们可以用 QEMU WinRT 版本进行模拟。我顺便做了一个模拟器，用 Inno Setup 打包了安装程序，安装包大小 381.14 MB，安装完成后大小占 1.45 GB。
 
+### 概念图片
+
+![polaris-os-with-the-composable-shell](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-with-the-composable-shell.png)
+
 ### 图片
 
 ![polaris-os-emulator-installer](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-emulator-installer.png)
