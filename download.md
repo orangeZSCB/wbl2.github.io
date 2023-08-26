@@ -10,7 +10,7 @@ title: 下载中心
 
 全套 Windows Beta 汉化版、语言包
 
-- [123 网盘](http://www.123pan.com/s/WbMSVv-NuQxv.html)<br>
+- [123 网盘](http://www.123pan.com/s/WbMSVv-NuQxv.html)
 - [huang1111 网盘](http://pan.huang1111.cn/s/ZaVztL)
 
 [WinBetaUser 资源库 - 软件](http://pan.huang1111.cn/s/a78ZCG)
@@ -40,7 +40,7 @@ Menhera SV 13：作者制作中。
 
 ### Nicrozoft 产品
 
-[Nicrosoft 制作的修改版系统](http://pan.huang1111.cn/s/GmNgFW)
+[Nicrozoft 制作的修改版系统](http://pan.huang1111.cn/s/GmNgFW)
 
 ### 想将你的产品投稿到下载中心？
 
