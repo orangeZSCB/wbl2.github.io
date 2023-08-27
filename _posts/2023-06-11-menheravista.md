@@ -10,7 +10,7 @@ Menhera Vista 是一个经过修改的 Windows 11 版本 22H2，它也有 PE 版
 
 最新版本：50.3 Extended
 
-版本 51 Extended (原 50.4 Extended) 已开始制作。版本 43 和 47 是 LTS (长期支持) 版本。从 Menhera Vista 50 开始，名称后面加上了 Extended。
+版本 51 Extended (原 50.4 Extended) 已开始制作，将于今年中秋节发布。版本 43 和 47 是 LTS (长期支持) 版本。从 Menhera Vista 50 开始，名称后面加上了 Extended。
 
 ### 下载地址
 

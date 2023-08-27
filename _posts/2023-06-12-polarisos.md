@@ -10,7 +10,9 @@ Polaris OS 是 Windows Core OS (简称 WCOS (卧槽系统？)) 的取消变体�
 
 ### 概念图片
 
-![polaris-os-with-the-composable-shell](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-with-the-composable-shell.png)
+![polaris-os-img0](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-img0.png)
+
+![polaris-os-img1](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-img1.png)
 
 ### 图片
 
@@ -27,3 +29,7 @@ Polaris OS 是 Windows Core OS (简称 WCOS (卧槽系统？)) 的取消变体�
 ### 下载
 
 请前往[下载中心](http://wbu-o.github.io/download)下载。
+
+### 观看视频
+
+<div>{%- include extensions/bilibili.html id='868602654' -%}</div>

@@ -25,7 +25,7 @@ title: 下载中心
 
 Menhera Encarta：制作中。
 
-Windows Polaris OS 模拟器 1.0
+Windows Polaris OS 模拟器 1.1
 
 - [123 网盘](https://www.123pan.com/s/WbMSVv-2vkxv.html)
 - [huang1111 网盘](http://pan.huang1111.cn/s/zG8gCM?path=%2FPolaris OS)
