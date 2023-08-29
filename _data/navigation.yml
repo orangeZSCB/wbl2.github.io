@@ -46,3 +46,11 @@ header:
       zh-CN   : *ZH_HANS
       # @end locale config
     url: /about.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       BiliBili Account
+      zh-Hans : &ZH_HANS  B 站账户
+      zh-CN   : *ZH_HANS
+      # @end locale config
+    url: http://space.bilibili.com/410645610
