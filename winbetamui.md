@@ -13,7 +13,7 @@ WinBetaMUI Team 是一个团队，在 Longhorn 4074 汉化包 5.0 发布时成�
 | Windows Whistler 2419 简体中文版 1.0                         | 2023/3/13  |
 | Windows Neptune 5111 简体中文版 1.0                          | 2023/3/26  |
 | Windows Vista Build 5112 多语言包 1.0                        | 2023/7/29  |
-| Windows Longhorn 3718 多语言包 1.0                           | 2023/8/12  |
+| Windows Longhorn 3718 多语言包 1.25                          | 2023/9/7   |
 | Longhorn Tools Plus 2.0                                      | 2023/8/7   |
 | Windows 8 Build 8032 简体中文版 1.0                          | 2022/11/15 |
 | Windows 8 Build 8014 简体中文版 1.1                          | 2023/8/31  |
