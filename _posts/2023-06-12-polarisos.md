@@ -3,22 +3,22 @@ title: Polaris OS 模拟器
 tags: 软件
 ---
 
-关于 Windows Polaris OS 的介绍详见 [BetaWiki](https://betawiki.net/wiki/Windows_Polaris_OS)。
+关于 Windows Polaris OS 的介绍详见 [BetaWiki](http://betawiki.net/wiki/Windows_Polaris_OS)。
 <!--more-->
 
 Polaris OS 是 Windows Core OS (简称 WCOS (卧槽系统？)) 的取消变体，它和 Andromeda OS 作为难兄难弟一起取消后变成了 Windows 10X。它只泄露了一个版本，但是缺少大量 shell 文件，导致开机后黑屏。它是 ARM32 架构的，因此我们可以用 QEMU WinRT 版本进行模拟。我顺便做了一个模拟器，用 Inno Setup 打包了安装程序，安装包大小 381.14 MB，安装完成后大小占 1.45 GB。
 
 ### 概念图片
 
-![polaris-os-img0](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-img0.png)
+![polaris-os-img0](http://github.com/winbetauser/winbetauser.github.io/raw/main/images/polaris-os-img0.png)
 
-![polaris-os-img1](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-img1.png)
+![polaris-os-img1](http://github.com/winbetauser/winbetauser.github.io/raw/main/images/polaris-os-img1.png)
 
 ### 图片
 
 ![polaris-os-emulator-installer](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-emulator-installer.png)
 
-![polaris-os-boot](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-boot.png)
+![polaris-os-boot](http://github.com/winbetauser/winbetauser.github.io/raw/main/images/polaris-os-boot.png)
 
 ### 更新日志
 
@@ -28,7 +28,7 @@ Polaris OS 是 Windows Core OS (简称 WCOS (卧槽系统？)) 的取消变体�
 
 ### 下载
 
-请前往[下载中心](http://wbu-o.github.io/download)下载。
+请前往[下载中心](http://winbetauser.github.io/download)下载。
 
 ### 观看视频
 
