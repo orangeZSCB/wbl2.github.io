@@ -19,7 +19,7 @@ timezone: # see https://zh.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : UP 主 # "person" (default), "organization"
   name      : WinBetaUser
-  url       : https://winbetauser.github.io
+  url       : http://winbetauser.github.io
   avatar    : # path or url of avatar image (square)
   bio       : 我是一个 B 站科技区 UP 主。
   email     : markta111@outlook.com
