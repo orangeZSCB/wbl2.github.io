@@ -1,35 +1,43 @@
 ---
-layout: home
+layout: article
 title: 主页
-#articles:
-  #excerpt_type: html
 ---
 
-# 主页
+### 每日一句
 
+<a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">逸一时，误一世，逸久逸久罢已龄！</a>
+<br>
+<script type="text/javascript" src="title.js"></script>
 
+### 逸一时，误一世
 
-### 欢迎来到 WinBetaUser 的网站！
+为了不错过重要bug修复或新功能，安装应用程序后，您可以在网站上不定期检查是否有更新，我们会在每个应用的页面上标明最新版本，您可以跟您的应用版本进行对比，从而发现是否有更新。
 
-我是一个 B 站 UP 主，喜欢发布科技类的视频。我有两个团队：[WinBetaMUI Team](https://winbetauser.github.io/winbetamui) 和 [WinBetaUser Freestyle Team](https://winbetauser.github.io/about#关于-winbetauser-freestyle-team)。
+由于技术限制，应用更新不会在应用内部推送，需要到网站检查，敬请谅解！
+{:.info}
 
+### iKUN必备魔改开始"蔡"单
 
+咋一看，这好像就是个普通的Win8开始菜单。但是如果你点击任何一个磁贴，你都会发现许多坤元素满满的惊喜！
 
-### 日日新，日日新。
+[了解详细信息](2023/01/25/cxk.html)
 
-如果你是来检查我们的产品的更新的，可点击顶部的“[下载中心](https://winbetauser.github.io/download)”更新产品。
+### 无需注册表，制作开机提示
 
+之前在B站发了一个[Windows不欢迎你](https://b23.tv/oQV8VMP)的视频，但是视频中的注册表操作方式很难，也很危险。所以发布了专门编辑开机提示的应用程序。
 
+[了解详细信息](2023/01/20/winwelcome.html)
 
-### 如果你不喜欢我们，也不要紧
+### 上B站，看更多视频与专栏
 
-在你的电脑的 ```hosts``` 文件中加上 ```127.0.0.1 winbetauser.github.io```，然后再也不见。
+这里仅仅是发布应用的地方，所以你能看到的内容很少，更多内容请到 [Microhard_1724 的B站主页](https://b23.tv/5kBoF1E) 查看。
 
-希望这句话你永远也不会用到！
-{:.error}
+B站推荐视频：[点击观看视频](https://b23.tv/euw947f)
 
+![image](/广告图.png){:.rounded.shadow}
 
+### 下载更多应用
 
-### 休对故人思故国，且将新火试新茶。
+Microhard一般只在主页放3个以内的推荐应用，您可以点击顶部导航栏的[应用下载](/blogs.html)或右上角搜索以查看更多应用。
 
-敬请开始你的 WinBetaUser 的网站之旅吧！
+[加入预览体验计划](/winload.html) [关于](/about.html)
