@@ -1,6 +1,8 @@
 ---
 layout: home
 title: 主页
+#articles:
+  #excerpt_type: html
 ---
 
 # 主页
