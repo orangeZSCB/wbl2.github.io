@@ -1,6 +1,6 @@
 ---
 title: Menhera Vista 操作系统
-tags: 操作系统
+tags: 第三方修改版操作系统
 ---
 
 Menhera Vista 是一个经过修改的 Windows 11 版本 22H2，它也有 PE 版本。

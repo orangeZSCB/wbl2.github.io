@@ -1,6 +1,6 @@
 ---
-title: Polaris OS 模拟器
-tags: 软件
+title: Polaris OS
+tags: 操作系统
 ---
 
 关于 Windows Polaris OS 的介绍详见 [BetaWiki](http://betawiki.net/wiki/Windows_Polaris_OS)。
@@ -15,8 +15,6 @@ Polaris OS 是 Windows Core OS (简称 WCOS (卧槽系统？)) 的取消变体�
 ![polaris-os-img1](http://github.com/winbetauser/winbetauser.github.io/raw/main/images/polaris-os-img1.png)
 
 ### 图片
-
-![polaris-os-emulator-installer](http://github.com/wbu-o/wbu-o.github.io/raw/main/images/polaris-os-emulator-installer.png)
 
 ![polaris-os-boot](http://github.com/winbetauser/winbetauser.github.io/raw/main/images/polaris-os-boot.png)
 
