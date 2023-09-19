@@ -3,10 +3,12 @@ layout: article
 title: 下载中心
 ---
 
-**欢迎来到 WinBetaUser 下载中心！**您可在此下载 WinBetaUser Freestyle Team 产品、AeroGNOME & IVBX Data Whistler Team 产品和更多产品！
+**欢迎来到 WinBetaUser 下载中心！**
+
+您可在此下载 WinBetaUser / [WinBetaMUI Team](/winbetamui) 产品、AeroGNOME & IVBX Data Whistler Team 产品和更多产品！
 {:.info}
 
-### WinBetaUser Freestyle Team 产品
+### WinBetaUser / [WinBetaMUI Team](/winbetamui) 产品
 
 全套 Windows Beta 汉化版、语言包
 
@@ -19,11 +21,9 @@ title: 下载中心
 
 [WinBetaUser 资源库 - 实用工具](http://pan.huang1111.cn/s/2kKXsN)
 
-[WinBetaUser 资源库 - Windows ARM](http://pan.huang1111.cn/s/8zbWHQ)
+[WinBetaUser 资源库 - Windows RT](http://pan.huang1111.cn/s/8zbWHQ)
 
 [Longhorn Tools Plus 2.0](http://www.123pan.com/s/LQJuVv-XJKNd.html)
-
-Menhera Encarta：制作中。
 
 Windows Polaris OS 模拟器 1.1
 
@@ -45,3 +45,6 @@ Menhera SV 13：作者制作中。
 ### 想将你的产品投稿到下载中心？
 
 没问题！只需在 B 站私信我！
+
+但请不要上传我认为不合适的内容！
+{:.warning}
