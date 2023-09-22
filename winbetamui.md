@@ -3,9 +3,9 @@ layout: article
 title: WinBetaMUI Team
 ---
 
-WinBetaMUI Team 是一个团队，在 Longhorn 4074 汉化包 5.0 发布时成立，现有 7 位成员：我、[@BSOD-MEMZ](http://space.bilibili.com/1975308950)、[@Nicrozoft](mailto:haha666_666.outlook.com)、[@AndyChung123](http://space.bilibili.com/2119761603)、[@IVBXの数据](http://space.bilibili.com/1171551865)、[@AeroGNOME](http://space.bilibili.com/515586861)、[@YuHua_o](http://space.bilibili.com/1468597922) 和 [@Microhard_1724](http://space.bilibili.com/1684665013)。此团队主要汉化 Longhorn 4074 和其他 Windows Beta，是第一个汉化部分 Windows Beta 的团队，原名 WinBetaCN Team。
+WinBetaMUI Team 是一个团队，在 Longhorn 4074 汉化包 5.0 发布时成立，现有 8 位成员：我、[@BSOD-MEMZ](https://space.bilibili.com/1975308950)、[@Nicrozoft](https://github.com/Nicrozoft)、[@AndyChung123](https://space.bilibili.com/2119761603)、[@IVBXの数据](https://space.bilibili.com/1171551865)、[@AeroGNOME](https://space.bilibili.com/515586861)、[@YuHua_o](https://space.bilibili.com/1468597922) 和 [@Microhard_1724](https://space.bilibili.com/1684665013)。此团队主要汉化 Longhorn 4074 和其他 Windows Beta，是第一个汉化部分 Windows Beta 的团队，原名 WinBetaCN Team。
 
-[Github 主页](http://github.com/wbmui)
+[Github 主页](https://github.com/wbmui)
 
 ### 产品
 
@@ -15,7 +15,7 @@ WinBetaMUI Team 是一个团队，在 Longhorn 4074 汉化包 5.0 发布时成�
 | Windows Whistler 2419 简体中文版 1.0                         | 2023/3/13  |
 | Windows Neptune 5111 简体中文版 1.0                          | 2023/3/26  |
 | Windows Vista Build 5112 多语言包 1.0                        | 2023/7/29  |
-| Windows Longhorn 3718 多语言包 1.25                          | 2023/9/7   |
+| [Windows Longhorn 3718 多语言包 1.25](/2023/09/19/lh3718mui) | 2023/9/7   |
 | Longhorn Tools Plus 2.0                                      | 2023/8/7   |
 | Windows 8 Build 8032 简体中文版 1.0                          | 2022/11/15 |
 | Windows 8 Build 8014 简体中文版 1.1                          | 2023/8/31  |
