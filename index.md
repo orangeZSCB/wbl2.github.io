@@ -7,9 +7,7 @@ title: 主页
 
 ### 欢迎
 
-**欢迎来到 WinBetaUser 的网站！**
-
-我是一个 B 站 UP 主，喜欢发布科技类的视频。
+欢迎来到 WinBetaUser 的网站！我是一个 B 站 UP 主，喜欢发布科技类的视频。
 
 我有一个团队：[WinBetaMUI Team](/winbetamui)。
 {:.warning}

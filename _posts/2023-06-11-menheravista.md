@@ -23,6 +23,4 @@ Menhera Vista 是一个经过修改的 Windows 11 版本 22H2，它也有 PE 版
 
 ### 观看相关视频
 
-<div>{%- include extensions/bilibili.html id='784975276' -%}</div>
-
-<div>{%- include extensions/bilibili.html id='357615465' -%}</div>
+<div>{%- include extensions/bilibili.html id='618748884' -%}</div>
