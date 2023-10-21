@@ -12,9 +12,9 @@ key: page-about
 
 [我的 B 站账户](https://space.bilibili.com/410645610) **我的视频只在 B 站发布，在其他平台发布均为盗视频！**
 
-我的粉丝群：https://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ
+我的粉丝群聊：https://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ
 
-我没有 QQ 群，因为我没有 QQ 账户。
+我没有 QQ 账户 和 QQ 群聊，也不会注册 QQ 账户或创建 QQ 群聊。
 
 私聊我：https://message.bilibili.com/#whisper/mid410645610
 
@@ -22,12 +22,12 @@ WinBetaMUI Team 产品反馈：https://forms.office.com/r/YEzZmF2Lv9
 
 ### 友情链接
 
-[Nicrozoft 官方网站](http://nicrozoft.github.io)
+[Nicrozoft 官方网站](https://nicrozoft.github.io)
 
-[BSOD-MEMZ 的小站](http://bsodmemz.zeabur.app)
+[AndyChung123 的网站](https://andychung123.github.io)
 
-[IVBX Server](http://ivbxdata.github.io)
+[BSOD-MEMZ 的小站](https://bsodmemz.zeabur.app)
 
-[AndyChung123 的网站](http://andychung123.github.io)
+[IVBX Server](https://ivbxdata.github.io)
 
 [Microhard Demo](https://microharddemo.github.io)

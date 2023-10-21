@@ -8,15 +8,15 @@ Menhera Vista 是一个经过修改的 Windows 11 版本 22H2，它也有 PE 版
 
 系统主要作者：[AeroGNOME](https://space.bilibili.com/515586861) & [IVBX Data](https://space.bilibili.com/1171551865) Whistler Team
 
-最新版本：50.3 Extended
+最新版本：51
 
-版本 51（原 50.4 Extended）已制作完成，将于今年中秋节发布。版本 43 和 47 是 LTS（长期支持）版本。
+版本 43 和 47 是 LTS（长期支持）版本。
 
 ### 下载地址
 
-#### 版本 50.3 Extended
+#### 版本 51
 
-私信 AeroGNOME“我爱IVBX”获取。
+私信 AeroGNOME“IVBX开火车”获取。
 
 要下载其他版本，请私信 AeroGNOME。
 {:.warning}
