@@ -5,7 +5,7 @@ title: 下载中心
 
 **欢迎来到 WinBetaUser 下载中心！**
 
-您可在此下载 WinBetaUser / [WinBetaMUI Team](/winbetamui) 产品、AeroGNOME & IVBX Data Whistler Team 产品和更多产品！
+您可在此下载 WinBetaUser / [WinBetaMUI Team](/winbetamui) 产品、Nicrozoft 产品和更多产品！
 {:.info}
 
 ### WinBetaUser / [WinBetaMUI Team](/winbetamui) 产品
@@ -41,10 +41,6 @@ Windows Polaris OS build 16299 模拟器 1.1
 
 - [123 网盘](https://www.123pan.com/s/WbMSVv-2vkxv.html)
 - [huang1111 网盘](https://pan.huang1111.cn/s/zG8gCM?path=%2FPolaris OS)
-
-### AeroGNOME & IVBX Data Whistler Team 产品
-
-Menhera Vista 50.3 Extended：私信 [@AeroGNOME](https://space.bilibili.com/515586861) 我爱IVBX 获取。
 
 ### Nicrozoft 产品
 
