@@ -4,7 +4,7 @@ title: 关于
 key: page-about
 ---
 
-此网站已在 2023 年 6 月 10 日整改。感谢 [Jekyll](https://jekyllrb.com/) 提供网站模板，和 @kttian616 制作[网站主题](https://github.com/kitian616/jekyll-TeXt-theme)。以后可能会考虑将网站迁移到 GitLab.com。此网站目前访问速度慢，存在极少量英文。
+此网站已于 2023 年 6 月 10 日整改。感谢 [Jekyll](https://jekyllrb.com/) 提供网站模板，和 @kttian616 制作[网站主题](https://github.com/kitian616/jekyll-TeXt-theme)。此网站目前访问速度慢，存在少量英文，并且由于 GitHub 访问速度慢，此网站更新频率很低。
 
 ### 关于我
 
@@ -14,7 +14,7 @@ key: page-about
 
 我的粉丝群聊：https://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ
 
-我没有 QQ 账户 和 QQ 群聊，也不会注册 QQ 账户或创建 QQ 群聊。
+我的 QQ 号：2134370753    QQ 群聊：743118648
 
 私聊我：https://message.bilibili.com/#whisper/mid410645610
 
