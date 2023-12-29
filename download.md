@@ -33,20 +33,13 @@ title: 下载中心
 
 [WinBetaUser 资源库 - 壁纸](https://pan.huang1111.cn/s/vbEKhE)
 
-[WinBetaUser 资源库 - 其它资源](https://pan.huang1111.cn/s/b7nDiY)
-
 [Longhorn Tools Plus](https://www.123pan.com/s/LQJuVv-XJKNd.html)
-
-Windows Polaris OS build 16299 模拟器 1.1
-
-- [123 网盘](https://www.123pan.com/s/WbMSVv-2vkxv.html)
-- [huang1111 网盘](https://pan.huang1111.cn/s/zG8gCM?path=%2FPolaris OS)
 
 ### Nicrozoft 产品
 
 [Nicrozoft 制作的修改版系统](https://pan.huang1111.cn/s/GmNgFW)
 
-### 想将你的产品投稿到下载中心？
+### 你想将你的产品发布到这里？
 
 没问题！只需在 B 站私信我！
 
