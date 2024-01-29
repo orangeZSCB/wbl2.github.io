@@ -31,17 +31,9 @@ title: 下载中心
 
 [WinBetaUser 资源库 - 用于移动设备的 Windows](https://pan.huang1111.cn/s/zG8gCM)
 
-[WinBetaUser 资源库 - 壁纸](https://pan.huang1111.cn/s/vbEKhE)
-
-[Longhorn Tools Plus](https://www.123pan.com/s/LQJuVv-XJKNd.html)
-
 ### Nicrozoft 产品
 
 [Nicrozoft 制作的修改版系统](https://pan.huang1111.cn/s/GmNgFW)
 
-### 你想将你的产品发布到这里？
-
-没问题！只需在 B 站私信我！
-
-但请不要上传我认为不合适的内容！
-{:.warning}
+欢迎将您的产品发布到此页面！
+{:.info}
