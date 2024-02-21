@@ -3,9 +3,9 @@ layout: article
 title: WinBetaMUI Team
 ---
 
-WinBetaMUI Team 是一个团队，在 Longhorn 4074 汉化包 5.0 发布时成立，现有 7 位成员：我、[@BSOD-MEMZ](https://space.bilibili.com/1975308950)、[@Nicrozoft](https://github.com/Nicrozoft)、[@AndyChung123](https://space.bilibili.com/2119761603)、[@林烽玄Windstorm](https://space.bilibili.com/1171551865)、[@ChengZi](https://space.bilibili.com/576114286) 和 [@YuHua_o](https://space.bilibili.com/1468597922)。此团队主要汉化 Windows Longhorn build 3718 和其他 Windows Beta，是第一个汉化部分 Windows Beta 的团队，原名 WinBetaCN Team。
+WinBetaMUI Team 是一个团队，在 Longhorn 4074 汉化包 5.0 发布时成立，现有 7 位成员：我、[@BSOD-MEMZ](https://space.bilibili.com/1975308950)、[@Nicrozoft](https://github.com/Nicrozoft)、[@AndyChung123](https://space.bilibili.com/2119761603)、[@林烽玄Windstorm](https://space.bilibili.com/1171551865)、[@Orange](https://space.bilibili.com/576114286) 和 [@YuHua_o](https://space.bilibili.com/1468597922)。此团队主要汉化 Windows Longhorn build 3718 和其他 Windows Beta，是第一个汉化部分 Windows Beta 的团队，原名 WinBetaCN Team。
 
-**2024/2/21 欢迎新成员 ChengZi！**
+**2024/2/21 欢迎新成员 Orange！**
 {:.success}
 
 [GitHub 主页](https://github.com/wbmui)
